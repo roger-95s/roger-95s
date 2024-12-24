@@ -1,4 +1,4 @@
-`# 👋 Hi, I'm Roger!
+# 👋 Hi, I'm Roger!
 
 🌟 Aspiring Cloud & AI Security Expert | CS50 Graduate
 
