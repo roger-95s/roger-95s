@@ -23,12 +23,12 @@
 - Frameworks:
 <span>
   <img src="https://img.shields.io/badge/Django-00599C?style=for-the-badge&logo=Django&logoColor=white">
-  <img src="https://img.shields.io/badge/React-#61DAFB?style=for-the-badge&logo=React&logoColor=white" alt="React Badge">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white" alt="React Badge">
 </span> 
 
 - Tools: Git
 <span>
-  <img src="https://img.shields.io/badge/Git-#4478C0?style=for-the-badge&logo=Git&logoColor=white" alt="Git Badge">
+  <img src="https://img.shields.io/badge/Git-4478C0?style=for-the-badge&logo=Git&logoColor=white" alt="Git Badge">
 </span>
 
 - Focus Areas:
