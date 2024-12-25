@@ -1,6 +1,4 @@
-`# 👋 Hi, I'm Roger!
-
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+# 👋 Hi, I'm Roger!
 
 🌟 Aspiring Cloud & AI Security Expert | CS50 Graduate
 
