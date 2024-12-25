@@ -24,10 +24,14 @@
 - Frameworks:
 <span>
   <img src="https://img.shields.io/badge/Django-00599C?style=for-the-badge&logo=Django&logoColor=white">
-  <img src="https://img.shields.io/badge/React-777BB4?style=for-the-badge&logo=React&logoColor=white" alt="SQL Badge">
+  <img src="https://img.shields.io/badge/React-777BB4?style=for-the-badge&logo=React&logoColor=white" alt="React Badge">
 </span> 
 
 - Tools: Git
+<span>
+  <img src="https://img.shields.io/badge/Git-777BB4?style=for-the-badge&logo=Git&logoColor=white" alt="Git Badge">
+</span>
+
 - Focus Areas: Programming, Cybersecurity
 
 ## 🌟 Featured Projects
