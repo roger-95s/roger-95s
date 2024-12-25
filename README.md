@@ -31,8 +31,12 @@
   <img src="https://img.shields.io/badge/Git-777BB4?style=for-the-badge&logo=Git&logoColor=white" alt="Git Badge">
 </span>
 
-- Focus Areas: Programming, Cybersecurity
-
+- Focus Areas:
+<span>
+  <img src="https://img.shields.io/badge/Programming-777BB4?style=for-the-badge&logo=Programming&logoColor=white" alt="Programming Badge">
+  <img src="https://img.shields.io/badge/Cybersecurity-777BB4?style=for-the-badge&logo=Cybersecurity&logoColor=white" alt="Cybersecurity Badge">
+</span> 
+ 
 ## 🌟 Featured Projects
 - [Social Network](https://github.com/yourusername/social-network)  
   A Django-powered platform for sharing posts, following users, and more.
