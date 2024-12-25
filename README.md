@@ -34,7 +34,7 @@
 - Focus Areas:
 <span>
   <img src="https://img.shields.io/badge/Programming-0xff0000?style=for-the-badge&logo=Programming&logoColor=white" alt="Programming Badge">
-  <img src="https://img.shields.io/badge/Cybersecurity-777BB4?style=for-the-badge&logo=Cybersecurity&logoColor=white" alt="Cybersecurity Badge">
+  <img src="https://img.shields.io/badge/Cybersecurity-0x00ffff?style=for-the-badge&logo=Cybersecurity&logoColor=white" alt="Cybersecurity Badge">
 </span> 
  
 ## 🌟 Featured Projects
