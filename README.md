@@ -3,7 +3,6 @@
 🌟 "Aspiring Cyber-Physical Systems Engineer | Focused on Cloud & AI Security" | CS50 Graduate
 
 - 🔭 Currently working on: Building my portfolio. 
-``` On future projects ```
 - 🌱 Learning: 
 - 👯 Open to collaborating on: On any Open-source projects.
 - 📫 Reach me: [Will add email later](mailto:email@example.com) | [Will add LinkedIn later](https://linkedin.com/in/yourprofile)
