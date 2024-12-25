@@ -19,8 +19,6 @@
   <img src="https://img.shields.io/badge/SQL-777BB4?style=for-the-badge&logo=SQL&logoColor=white" alt="SQL Badge">
 </span>
 
-<br>
-
 - Frameworks:
 <span>
   <img src="https://img.shields.io/badge/Django-00599C?style=for-the-badge&logo=Django&logoColor=white">
