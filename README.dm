@@ -1,5 +1,7 @@
 `# 👋 Hi, I'm Roger!
 
+![Static Badge](https://img.shields.io/badge/:badgeContent)
+
 🌟 Aspiring Cloud & AI Security Expert | CS50 Graduate
 
 - 🔭 Currently working on: Building my portfolio.
@@ -25,3 +27,4 @@
   A Django-powered platform for sharing posts, following users, and more.
 - [Finance Manager](https://github.com/yourusername/finance-manager)  
   A personal finance tracker with real-time balance calculations.
+ 
