@@ -1,6 +1,6 @@
 # Hello World, 👋 I'm Roger! 💻
 
-🌟 Aspiring Cloud & AI Security Expert | CS50 Graduate
+🌟 "Aspiring Cyber-Physical Systems Engineer | Focused on Cloud & AI Security" | CS50 Graduate
 
 - 🔭 Currently working on: Building my portfolio.
 - 🌱 Learning: 
