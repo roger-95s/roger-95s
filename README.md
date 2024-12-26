@@ -5,7 +5,7 @@
 - 🔭 Currently working on: Building my portfolio. 
 - 🌱 I’m currently learning:```...```
 - 🤔 I’m looking for help with:```...```
-- 👯 Open to collaborating on: any Open-source projects.
+- 👯 Open to collaborating on: Open-source projects.
 - 📫 Reach me: [Will add email later](mailto:email@example.com) | [Will add LinkedIn later](https://linkedin.com/in/yourprofile)
 - ⚡ Fun fact:```...```
 
