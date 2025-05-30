@@ -40,6 +40,6 @@
 ## 🌟 Featured Projects
 - [Social Network](https://github.com/yourusername/social-network)  
   A Django-powered platform for sharing posts, following users, and more.
-- [Finance Manager]([https://github.com/yourusername/finance-manager](https://github.com/roger-95s/Command-Line-Password-Manager))  
+- [Finance Manager](https://github.com/roger-95s/Command-Line-Password-Manager)  
   A personal finance tracker with real-time balance calculations.
  
