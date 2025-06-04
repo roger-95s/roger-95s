@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning:```...```
 - 🤔 I’m looking for help with:```...```
 - 👯 Open to collaborating on: Open-source projects.
-- 📫 Reach me: [Will add email later](mailto:email@example.com) | [LinkedIn ](https://www.linkedin.com/in/roger-campo-cordova-574bb930a/)
+- 📫 Reach me: [Will add email later](mailto:email@example.com) | [LinkedIn ](www.linkedin.com/in/roger-campo-cordova-574bb930a)
 - ⚡ Fun fact:```...```
 
 ## 💻 My Skills
