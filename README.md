@@ -11,33 +11,37 @@
 
 ## 💻 My Skills
 - Programming: 
-<span> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-abcdef?style=for-the-badge&logo=Python&logoColor=black">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-777BB4?style=for-the-badge&logo=SQL&logoColor=white" alt="SQL Badge">
+<!-- Languages -->
+<span>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Badge">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Badge">
 </span>
 
-- Frameworks:
+<!-- Frameworks -->
+<p><strong>Frameworks:</strong></p>
 <span>
-  <img src="https://img.shields.io/badge/Django-00599C?style=for-the-badge&logo=Django&logoColor=white">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white" alt="React Badge">
-</span> 
-
-- Tools: Git
-<span>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" alt="Git Badge">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Badge">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge">
 </span>
 
-- Focus Areas:
+<!-- Tools -->
+<p><strong>Tools:</strong></p>
 <span>
-  <img src="https://img.shields.io/badge/Programming-0xff0000?style=for-the-badge&logo=Programming&logoColor=white" alt="Programming Badge">
-  <img src="https://img.shields.io/badge/Cybersecurity-00599C?style=for-the-badge&logo=Cybersecurity&logoColor=white" alt="Cybersecurity Badge">
-</span> 
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
+</span>
+
+<!-- Focus Areas -->
+<p><strong>Focus Areas:</strong></p>
+<span>
+  <img src="https://img.shields.io/badge/Programming-FF0000?style=for-the-badge&logo=codeforces&logoColor=white" alt="Programming Badge">
+  <img src="https://img.shields.io/badge/Cybersecurity-0F172A?style=for-the-badge&logo=protonvpn&logoColor=white" alt="Cybersecurity Badge">
+</span>
+
  
 ## 🌟 Featured Projects
 - [Finance Manager](https://github.com/roger-95s/Finance-Manager)  
