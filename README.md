@@ -39,7 +39,7 @@
  
 ## 🌟 Featured Projects
 - [Finance Manager](https://github.com/roger-95s/Finance-Manager)  
-  A Django-powered platform for sharing posts, following users, and more.
-- [Password Manager](https://github.com/roger-95s/Command-Line-Password-Manager)  
   A personal finance tracker with real-time balance calculations.
+- [Password Manager](https://github.com/roger-95s/Command-Line-Password-Manager)  
+ A Command-Line-Password-Manager
  
