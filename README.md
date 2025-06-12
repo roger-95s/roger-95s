@@ -3,7 +3,7 @@
 🌟 "Aspiring Cyber-Physical Systems Engineer | Focused on Cloud & AI Security" | CS50 Graduate
 
 - 🔭 Currently working on: Building my portfolio. 
-- 🌱 I’m currently learning:```...```
+- 🌱 I’m currently learning: Junior Cybersecurity Analyst
 - 🤔 I’m looking for help with:```...```
 - 👯 Open to collaborating on: Open-source projects.
 - 📫 Reach me: [Will add email later](mailto:email@example.com) | [Roger Campo LinkedIn: ](www.linkedin.com/in/roger-campo-cordova-574bb930a)
