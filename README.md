@@ -23,6 +23,7 @@
 - Frameworks:
 <span>
   <img src="https://img.shields.io/badge/Django-00599C?style=for-the-badge&logo=Django&logoColor=white">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white" alt="React Badge">
 </span> 
 
