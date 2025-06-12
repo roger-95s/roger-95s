@@ -46,10 +46,8 @@
 
  
 ## 🌟 Featured Projects
-<p><strong>Finance Manager:</strong> https://github.com/roger-95s/Finance-Manager</p>
-  A personal finance tracker with real-time balance calculations.
-  
-<p><strong>Password Manager:</strong> https://github.com/roger-95s/Command-Line-Password-Manager</p>
-    
-  A Command-Line-Password-Manager
+<p><strong>Finance Manager:</strong> https://github.com/roger-95s/Finance-Manager</p> 
+- A personal finance tracker with real-time balance calculations.
+<p><strong>Password Manager:</strong> https://github.com/roger-95s/Command-Line-Password-Manager</p>    
+- A Command-Line-Password-Manager
  
