@@ -29,7 +29,8 @@
 
 - Tools: Git
 <span>
-  <img src="https://img.shields.io/badge/Git-4478C0?style=for-the-badge&logo=Git&logoColor=white" alt="Git Badge">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" alt="Git Badge">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
 </span>
 
 - Focus Areas:
