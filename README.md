@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning: Junior Cybersecurity Analyst
 - 🤔 I’m looking for help with:```...```
 - 👯 Open to collaborating on: Open-source projects.
-- 📫 Reach me: [Will add email later](mailto:email@example.com) | [Roger Campo LinkedIn](https://www.linkedin.com/in/roger-campo-cordova/)
+- 📫 Reach me: [Will add email later](mailto:rogeresleitercc@gmail.com) | [Roger Campo LinkedIn](https://www.linkedin.com/in/roger-campo-cordova/)
 - ⚡ Fun fact:```...```
 
 ## 💻 My Skills
