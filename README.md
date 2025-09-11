@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning: Junior Cybersecurity Analyst
 - 🤔 I’m looking for help with:```...```
 - 👯 Open to collaborating on: Open-source projects.
-- 📫 Reach me: [Email contact:](mailto:rogeresleitercc@gmail.com) | [Roger Campo LinkedIn](https://www.linkedin.com/in/roger-campo-cordova/)
+- 📫 Reach me: [Email contact roger@](mailto:rogeresleitercc@gmail.com) | [Roger Campo LinkedIn](https://www.linkedin.com/in/roger-campo-cordova/)
 - ⚡ Fun fact:```...```
 
 ## 💻 My Skills
@@ -49,6 +49,7 @@
 <div>
   <p><strong>Finance Manager:</strong> https://github.com/roger-95s/Finance-Manager</p> 
   - A personal finance tracker with real-time balance calculations
+
 
   <p><strong>Password Manager:</strong> https://github.com/roger-95s/Command-Line-Password-Manager</p>    
   - A Command-Line-Password-Manager
